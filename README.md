@@ -17,13 +17,13 @@
 
 The purpose of this assignment was to create a way to search, save and look up books using a web application utilizing React and the Google Books API.  I used axios to call the API in React.   
 
-Live app: https://react-portfolio-aws.herokuapp.com/
+Live app: https://hw21-google-book.herokuapp.com/
 
 
 ## **Installation**
 1. Clone the repo
 ```sh
-https://github.com/AWSiegfried/HW20-react-portfolio.git
+https://github.com/AWSiegfried/HW21-google-book.git
 ```
 
 2. Install NPM packages
